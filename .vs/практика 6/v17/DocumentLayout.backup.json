@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AB950C-FC98-4A00-A12E-B8D4E4B08837}|\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6.csproj|d:\\\u0442\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AB950C-FC98-4A00-A12E-B8D4E4B08837}|\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6.csproj|solutionrelative:\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AB950C-FC98-4A00-A12E-B8D4E4B08837}|\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6.csproj|d:\\\u0442\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AB950C-FC98-4A00-A12E-B8D4E4B08837}|\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6.csproj|solutionrelative:\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AB950C-FC98-4A00-A12E-B8D4E4B08837}|\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6.csproj|d:\\\u0442\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AB950C-FC98-4A00-A12E-B8D4E4B08837}|\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6.csproj|solutionrelative:\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AB950C-FC98-4A00-A12E-B8D4E4B08837}|\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6.csproj|d:\\\u0442\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AB950C-FC98-4A00-A12E-B8D4E4B08837}|\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6.csproj|solutionrelative:\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\Program.cs",
+              "RelativeDocumentMoniker": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\Program.cs",
+              "ToolTip": "D:\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\Program.cs",
+              "RelativeToolTip": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T13:15:30.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "D:\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\Controllers\\GameController.cs",
+              "ToolTip": "D:\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\Controllers\\GameController.cs",
+              "RelativeToolTip": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\Controllers\\GameController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowGEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T10:39:33.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\Models\\Game.cs",
+              "ToolTip": "D:\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\Models\\Game.cs",
+              "RelativeToolTip": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T10:32:18.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\DB\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\DB\\AppDbContext.cs",
+              "ToolTip": "D:\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\DB\\AppDbContext.cs",
+              "RelativeToolTip": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 6\\DB\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T10:15:43.538Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

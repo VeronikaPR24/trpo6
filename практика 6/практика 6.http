@@ -1,0 +1,6 @@
+@практика_6_HostAddress = http://localhost:5277
+
+GET {{практика_6_HostAddress}}/Models/Game/
+Accept: application/json
+
+###
