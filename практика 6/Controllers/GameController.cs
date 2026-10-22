@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System.Text.Json;
 using практика_6.Models;
 
 namespace практика_6.Controllers
@@ -78,27 +79,33 @@ namespace практика_6.Controllers
         }
 
         [HttpPatch("{id}")]
-        public async Task<IActionResult> UpdateGame([FromRoute] int id, [FromBody] Game gameUpdates)
+        public async Task<IActionResult> UpdateGame([FromRoute] int id, [FromBody] JsonElement data)
         {
             var game = await _context.Games.FindAsync(id);
 
             if (game == null)
-            {
                 return NotFound("Игра не найдена");
-            }
 
-            if (gameUpdates.Title != null) 
-                game.Title = gameUpdates.Title;
-            if (gameUpdates.Genre != null) 
-                game.Genre = gameUpdates.Genre;
-            if (gameUpdates.Price != 0) 
-                game.Price = gameUpdates.Price;
-            if (gameUpdates.AgeRating != 0) 
-                game.AgeRating = gameUpdates.AgeRating;
-            if (gameUpdates.IsAvailable) 
-                game.IsAvailable = gameUpdates.IsAvailable;
+            if (data.ValueKind != JsonValueKind.Object)
+                return BadRequest("Ожидается JSON-объект");
+
+            if (data.TryGetProperty("title", out var title) || data.TryGetProperty("Title", out title))
+                game.Title = title.GetString()!;
+
+            if (data.TryGetProperty("genre", out var genre) || data.TryGetProperty("Genre", out genre))
+                game.Genre = genre.GetString()!;
+
+            if (data.TryGetProperty("price", out var price) || data.TryGetProperty("Price", out price))
+                game.Price = price.GetDecimal();
+
+            if (data.TryGetProperty("ageRating", out var ageRating) || data.TryGetProperty("AgeRating", out ageRating))
+                game.AgeRating = ageRating.GetInt32();
+
+            if (data.TryGetProperty("isAvailable", out var isAvailable) || data.TryGetProperty("IsAvailable", out isAvailable))
+                game.IsAvailable = isAvailable.GetBoolean();
 
             await _context.SaveChangesAsync();
+
             return NoContent();
         }
 

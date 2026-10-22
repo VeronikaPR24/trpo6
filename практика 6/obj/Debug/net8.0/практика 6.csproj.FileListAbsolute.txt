@@ -144,3 +144,4 @@ D:\ТРПО\практика 6\практика 6\bin\Debug\net8.0\Microsoft.Ope
 D:\ТРПО\практика 6\практика 6\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\ТРПО\практика 6\практика 6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\ТРПО\практика 6\практика 6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ТРПО\практика 6\практика 6\obj\Debug\net8.0\практика 6.sourcelink.json
